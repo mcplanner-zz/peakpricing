@@ -7,7 +7,7 @@ This research applies sketch modeling to estimate how more complex fare structur
 This repository holds a PDF report, a PDF poster, and an Excel spreadsheet.
 * The PDF report is a draft of a report published by the Transportation Research Board of North America (TRBNA) in 2013. The final report is available on the [TRBNA website](http://amonline.trb.org/trb-59976-2013a-1.2504412/t13031-1.2512649/421-1.2512315/13-1378-1.2512719/13-1378-1.2512724?qr=1) (subscription required).
 * The PDF poster was presented at the TRBNA conference in 2013.
-* The Excel spreadsheet was developed for research purposes, and its data has not been updated since 2012. This spreadsheet relies on a companion dataset of BART ridership data. It is formatted to match the standard output format from BART, and requires only a few formula references be changed to connect. These files are quite large, and we recommend turning on manual cell execution. 
+* The Excel spreadsheet was developed for research purposes, and its data has not been updated since 2012. This spreadsheet relies on a companion dataset of BART ridership data, which can be downloaded from [BART's website](http://www.bart.gov/about/reports/ridership). It is formatted to match the standard output format from BART, and requires only a few formula references be changed to connect. These files are quite large, and we recommend turning on manual cell execution. 
 
 ## Authors
 The research and model were created by Matthew Schabas and Ruth Miller during their second year of the Master of City Planning program at the University of California – Berkeley's Department of City and Regional Planning.
